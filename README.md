@@ -6,6 +6,13 @@
   :octocat: GitHub users & repo searcher made with React Native & TypeScript
 </h4>
 
+## :camera: Screenshots
+
+<p float="left">
+    <img src="https://github.com/vini-coelho/github-users-react-native/blob/master/screenshots/empty.png" height="450" alt="Nenhum Dev adicionado."/>
+    <img src="https://github.com/vini-coelho/github-users-react-native/blob/master/screenshots/userlist.png" height="450" alt="Lista de usuários."/>
+</p>
+
 ## :rocket: Technologies
 
 This project was developed by Vinícius Coelho for studying purposes with the following technologies:
