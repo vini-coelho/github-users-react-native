@@ -35,6 +35,12 @@ $ yarn install
 # Start the bundler
 $ yarn start
 ```
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/vini-coelho/github-users-react-native/blob/master/LICENSE) for more information.
+
+---
+
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
 [vc]: https://code.visualstudio.com/
