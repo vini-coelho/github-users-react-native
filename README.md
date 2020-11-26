@@ -1,6 +1,4 @@
 <h1 align="center">
-    <img alt="React Native Twitch.tv" width="300px" src="https://res.cloudinary.com/dhcpizhbr/image/upload/v1606341394/readme-assets/TwitchExtrudedWordmarkPurple_y3mimi.svg" />
-    <br>
     GitHub Users React Native
 </h1>
 
